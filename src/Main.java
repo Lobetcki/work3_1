@@ -102,7 +102,6 @@ public class Main {
             nomer2 = nomer - nomer2 ;
         }
     }
-
 }
 
 
